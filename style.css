@@ -1,0 +1,88 @@
+h1 {
+    color: forestgreen;
+    text-align: center;
+}
+
+h2 {
+    color: crimson;
+    text-align: center;
+}
+
+.image {
+    display: flex;    
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: thistle;
+}
+
+.info {
+    display: flex;    
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: turquoise;
+}
+
+.information {
+    display: flex;    
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: turquoise;
+    
+}
+
+.links {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-color: greenyellow;
+}
+
+
+.f1 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-color: seashell;
+}
+
+.sc1 {
+    display: flex;    
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: plum;
+}
+
+.sc2 {
+    display: flex;    
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: plum;
+}
+
+.sc3 {
+    display: flex;    
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: plum;
+}
+
+.pon1 {
+    display: flex;    
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: cadetblue;
+}
+
+.pon2 {
+    display: flex;    
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color:cadetblue;
+}
+
+.pon3 {
+    display: flex;    
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color:cadetblue;
+}
